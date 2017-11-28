@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 
 public class CheckUtil {  
-    private static String token = "10987654321";  
+    private static String token = "";  //token removed for security purposes
     /** 
      *
      * @param signature
